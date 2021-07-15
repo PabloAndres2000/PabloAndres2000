@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Torres Labraña</h1>
 <h3 align="center">Junior Developer / Computer Engineer Student</h3>
 
-- 🔭 I’m currently working on [PYMEBOLETA SpA](https://pymeboleta.cl/)
-
 - 🌱 I’m currently learning **Django**
 
 

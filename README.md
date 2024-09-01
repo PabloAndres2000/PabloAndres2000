@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Torres Labraña</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Backend Engineer</h3>
 
-- 🔭 I’m currently working on [Talana](https://web.talana.com/)
+- 💼 I’m currently working on [Talana](https://web.talana.com/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pablo-torres-labra%C3%B1a-002640206/](https://www.linkedin.com/in/pablo-torres-labra%C3%B1a-002640206/)
+- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/pablo-torres-labra%C3%B1a-002640206/](https://www.linkedin.com/in/pablo-torres-labra%C3%B1a-002640206/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
